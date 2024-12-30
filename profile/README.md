@@ -1,12 +1,6 @@
 ## Hi there 👋
 
-<!--
+We are Aysher Intelligence Agency. 
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🙋‍♀️ We are A small company whose mission is ensuring A positive future is made possible through innovation by providing opportunities for everyone on planet earth, while ensuring not to over step the boundaries of power wheb it comes to human lives, futuristic civilizations and whatever ecosystem we live within. 
+🌈 we encourage any and all people with A positive attitude and A respectful spirit to join us on a journey to a brighter tomorrow, Today. 
